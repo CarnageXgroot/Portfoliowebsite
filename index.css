@@ -1,0 +1,845 @@
+body {
+    margin: 0;
+    padding-left: 50px;
+    line-height: normal;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.div {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 3390px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 49.1px;
+    color: #0b0d39;
+    font-family: "DM Sans";
+}
+
+.landing-page-item {
+    position: absolute;
+    top: 489.18px;
+    left: 704.34px;
+    border-radius: 54.1px 54.1px 0 0;
+    background-color: #d9d9d9;
+    box-shadow: 0 14.47742748260498px 41.91px rgba(0, 0, 0, 0.5);
+    width: 469.37px;
+    height: 24.38px;
+}
+
+.desktop-1-child1 {
+    position: absolute;
+    height: 147.608px;
+    width: 1401px;
+    top: 1.1499999999999986px;
+    right: 1.87%;
+    bottom: 92.55%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.garvit-singh1,
+.uiux-designer1 {
+    position: absolute;
+    top: 25.4%;
+    left: 0.51%;
+    font-size: 91.44px;
+}
+
+.uiux-designer1 {
+    top: 47.65%;
+    font-size: 45.72px;
+}
+
+.vector-icon5,
+.vector-icon6 {
+    position: absolute;
+    height: 12.46%;
+    width: 12.21%;
+    top: 62.79%;
+    right: 62.73%;
+    bottom: 24.75%;
+    left: 25.06%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.vector-icon6 {
+    height: 102.44%;
+    width: 101.06%;
+    top: -1.22%;
+    right: -0.53%;
+    bottom: -1.22%;
+    left: -0.53%;
+}
+
+.contact3 {
+    position: absolute;
+    top: 28.05%;
+    left: 24.75px;
+    font-weight: 500;
+}
+
+.contact-button1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.contact-button1 {
+    position: absolute;
+    height: 12.17%;
+    width: 12.08%;
+    top: 62.94%;
+    right: 66.7%;
+    bottom: 24.9%;
+    left: 21.22%;
+}
+
+.projects-button-item {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.explore-projects1 {
+    position: absolute;
+    top: 26.51%;
+    left: 13.88%;
+    font-weight: 500;
+}
+
+.projects-button1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.projects-button1 {
+    position: absolute;
+    height: 12.31%;
+    width: 20.26%;
+    top: 63.08%;
+    right: 79.74%;
+    bottom: 24.6%;
+    left: 0;
+    color: #fff;
+}
+
+.male0075-1-icon1 {
+    position: absolute;
+    top: 0;
+    left: 687.58px;
+    width: 504.42px;
+    height: 513.57px;
+    object-fit: cover;
+}
+
+.landing-page1 {
+    position: relative;
+    width: 1192px;
+    height: 513.57px;
+    top: -108px;
+    font-size: 22.86px;
+}
+
+.about-me-item {
+    position: absolute;
+    width: 1285px;
+    top: -5.05%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+#about-me4 {
+    position: absolute;
+    top: 4.35%;
+    left: 41.48%;
+}
+
+.about-me-content {
+    margin: 0;
+    line-height: 30px;
+}
+
+.about-me-content-container1 {
+    position: absolute;
+    height: 67.32%;
+    width: 86.45%;
+    top: 24.12%;
+    left: 6.75%;
+    font-size: 18.41px;
+    letter-spacing: -0.04em;
+    line-height: 19.18px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    display: inline-block;
+}
+
+.about-me3 {
+    position: relative;
+    width: 1285px;
+    height: 546.99px;
+}
+
+.vector-icon7 {
+    position: absolute;
+    height: 102.94%;
+    width: 100.9%;
+    top: -1.47%;
+    right: -0.45%;
+    bottom: -1.47%;
+    left: 33px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.view-more3 {
+    position: absolute;
+    width: 53.76%;
+    top: 30.88%;
+    left: 72px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.view-more2 {
+    position: absolute;
+    height: 9.51%;
+    width: 13.28%;
+    top: 90.49%;
+    right: 43.33%;
+    bottom: 0;
+    left: 514.4px;
+    font-size: 15.34px;
+}
+
+.rectangle-icon {
+    position: absolute;
+    height: 115.98%;
+    width: 113.74%;
+    top: -4.57%;
+    right: -6.87%;
+    bottom: -11.42%;
+    left: -6.87%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.min-read3,
+.spotify-website-clone1 {
+    position: absolute;
+    width: 298.091px;
+    top: 179.172px;
+    left: 25.92px;
+    display: inline-block;
+}
+
+.min-read3 {
+    width: 177.937px;
+    top: 250.89px;
+    font-size: 12.27px;
+    font-weight: 500;
+}
+
+.group-icon {
+    position: absolute;
+    width: 49.866px;
+    height: 49.866px;
+    top: 226.31px;
+    right: 9.79%;
+    bottom: 6.62%;
+    left: 262.25px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.image-5-icon2 {
+    position: absolute;
+    height: 147.982px;
+    width: 298.538px;
+    top: 5.25%;
+    right: 5.5%;
+    bottom: 41.78%;
+    left: 5.3%;
+    object-fit: cover;
+}
+
+.rd-project-child1 {
+    position: absolute;
+    height: 11.42%;
+    width: 42.49%;
+    top: 10.5%;
+    right: 46.48%;
+    bottom: 78.08%;
+    left: 11.03%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.product-design1 {
+    position: absolute;
+    width: 30.52%;
+    top: 13.7%;
+    left: 16.9%;
+    font-size: 13.81px;
+    font-weight: 500;
+    color: #00c254;
+    text-align: center;
+    display: inline-block;
+}
+
+.rd-project1 {
+    position: absolute;
+    height: 61.26%;
+    width: 30.41%;
+    top: 18.04%;
+    right: 0;
+    bottom: 20.7%;
+    left: 69.59%;
+}
+
+.product-landing-page1 {
+    position: absolute;
+    width: 298.091px;
+    top: 179.172px;
+    left: 25.92px;
+    display: inline-block;
+}
+
+.image-5-icon3 {
+    position: absolute;
+    height: 147.982px;
+    width: 298.538px;
+    top: 5.25%;
+    right: 5.5%;
+    bottom: 41.78%;
+    left: 5.3%;
+    object-fit: cover;
+}
+
+.nd-project-child2 {
+    position: absolute;
+    height: 11.42%;
+    width: 29.58%;
+    top: 10.37%;
+    right: 59.27%;
+    bottom: 78.21%;
+    left: 11.15%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.branding1 {
+    position: absolute;
+    width: 17.84%;
+    top: 13.57%;
+    left: 17.02%;
+    font-size: 13.81px;
+    font-weight: 500;
+    color: #00c254;
+    text-align: center;
+    display: inline-block;
+}
+
+.nd-project-child3 {
+    position: absolute;
+    width: 49.866px;
+    height: 49.866px;
+    top: 226.31px;
+    right: 9.79%;
+    bottom: 6.62%;
+    left: 262.25px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.min-read4 {
+    position: absolute;
+    width: 177.937px;
+    top: 250.89px;
+    left: 24px;
+    font-size: 12.27px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.nd-project1 {
+    position: absolute;
+    height: 61.26%;
+    width: 30.41%;
+    top: 18.12%;
+    right: 34.8%;
+    bottom: 20.62%;
+    left: 34.8%;
+}
+
+.website-ui-design-1 {
+    position: absolute;
+    width: 298.091px;
+    top: 179.172px;
+    left: 25.92px;
+    display: inline-block;
+}
+
+.image-3-icon1,
+.st-project-child3 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.image-3-icon1 {
+    height: 147.982px;
+    width: 298.538px;
+    top: 5.25%;
+    right: 5.5%;
+    bottom: 41.78%;
+    left: 5.3%;
+    border-radius: 23.01px;
+    object-fit: cover;
+}
+
+.st-project-child3 {
+    height: 11.42%;
+    width: 29.58%;
+    top: 10.5%;
+    right: 59.39%;
+    bottom: 78.08%;
+    left: 11.03%;
+}
+
+.business1 {
+    position: absolute;
+    width: 17.61%;
+    top: 13.7%;
+    left: 16.9%;
+    font-size: 13.81px;
+    font-weight: 500;
+    color: #356dff;
+    text-align: center;
+    display: inline-block;
+}
+
+.st-project1 {
+    position: absolute;
+    height: 61.26%;
+    width: 30.41%;
+    top: 18.04%;
+    right: 69.59%;
+    bottom: 20.7%;
+    left: 0;
+}
+
+.projects5 {
+    position: absolute;
+    width: 16.85%;
+    top: 0;
+    left: 522px;
+    font-size: 49.1px;
+    display: inline-block;
+}
+
+#projects {
+    position: relative;
+    width: 1285px;
+    height: 548.52px;
+    left: 25px;
+    font-size: 18.41px;
+}
+
+.rocket3 {
+    color: #356dff;
+}
+
+.fire-up-your-container1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.startups-typically-begin1 {
+    position: absolute;
+    top: 76.1%;
+    left: 0;
+    font-size: 15.34px;
+}
+
+.fire-up-your-rocket-group {
+    position: absolute;
+    height: 21.34%;
+    width: 50%;
+    top: 36.21%;
+    right: 16.35%;
+    bottom: 42.45%;
+    left: 50.03%;
+}
+
+.xtrastartup-ligh-image-icon1 {
+    position: absolute;
+    top: calc(50% - 196.01px);
+    left: 0;
+    width: 701.98px;
+    height: 392.02px;
+    object-fit: cover;
+}
+
+.rocket2 {
+    position: relative;
+    border-radius: 46.03px;
+    background-color: #f2fbfc;
+    box-shadow: 0 14.576119422912598px 42.19px rgba(0, 0, 0, 0.25);
+    width: 1285px;
+    height: 392.02px;
+    left: -3px;
+    top: 618px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.linktree1,
+.projects6 {
+    position: absolute;
+    top: 80.83%;
+    left: 71.04%;
+}
+
+.projects6 {
+    top: 47.87%;
+}
+
+.about-me5,
+.home2,
+.quick-links3 {
+    position: absolute;
+    top: 80.83%;
+    left: 0;
+}
+
+.home2,
+.quick-links3 {
+    top: 47.87%;
+}
+
+.quick-links3 {
+    top: 0;
+    font-size: 17.51px;
+    color: #0b0d39;
+}
+
+.quick-links2 a {
+    text-decoration: none;
+    color: black;
+}
+
+.quick-links2 {
+    position: absolute;
+    height: 80.54%;
+    width: 23.12%;
+    top: 6.61%;
+    bottom: 12.85%;
+    left: 44px;
+    font-size: 21.01px;
+    color: rgba(11, 13, 57, 0.8);
+}
+
+.right-up-arrow1 {
+    position: absolute;
+    height: 33.05%;
+    width: 4.5%;
+    /* top: 34.65%; */
+    right: 56.1%;
+    bottom: -190.7px;
+    left: 39.4%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+#footer {
+    position: relative;
+    width: 1284.84px;
+    height: 174.84px;
+    top: 542px;
+    font-size: 17.51px;
+}
+
+.body1 {
+    position: absolute;
+    top: 266px;
+    left: 77px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 100px;
+}
+
+.top-bar-item {
+    width: 1280px;
+    height: 109.608px;
+    top: -32.84%;
+    right: -4.3%;
+    bottom: -67.51%;
+    left: 78px;
+}
+
+.about1,
+.contact5,
+.cv1,
+.home3,
+.projects7 {
+    position: absolute;
+    height: 100%;
+    width: 9.88%;
+    top: 0;
+    left: 0;
+    display: inline-block;
+}
+
+.about1,
+.contact5,
+.cv1,
+.projects7 {
+    width: 4.94%;
+    left: 69.17%;
+}
+
+.about1,
+.contact5,
+.projects7 {
+    width: 10.39%;
+    left: 22.49%;
+}
+
+.contact5,
+.projects7 {
+    width: 13.8%;
+    left: 86.2%;
+}
+
+.projects7 {
+    width: 13.97%;
+    left: 43.19%;
+}
+
+.menu-list1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu-list1 {
+    position: absolute;
+    height: 21.14%;
+    width: 48.34%;
+    top: 39.84%;
+    right: 3.3%;
+    bottom: 39.02%;
+    left: 48.36%;
+}
+
+.gs-logounfinal-icon1 {
+    position: absolute;
+    height: 46.34%;
+    width: 8.7%;
+    top: 96.17%;
+    right: 81.16%;
+    bottom: -42.51%;
+    left: 10.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.gs-logounfinal-11 {
+    position: absolute;
+    top: 36.38px;
+    left: 51.71px;
+    width: 110.64px;
+    height: 49px;
+    object-fit: cover;
+}
+
+.top-bar1 {
+    position: absolute;
+    height: 3.79%;
+    width: 88.89%;
+    top: 2.63px;
+    right: 5.69%;
+    bottom: 93.59%;
+    left: 5.42%;
+    font-size: 20px;
+}
+
+.copyrights-garvit {
+    margin: 0;
+}
+
+.copyrights-garvit-container {
+    position: absolute;
+    top: 83.9px;
+    left: 892.69px;
+    font-size: 20px;
+    line-height: 174.7%;
+    color: black;
+    text-align: center;
+}
+
+
+/*----------contact section----------*/
+
+#contacts {
+    position: absolute;
+    height: 625.988px;
+    width: 1387px;
+    top: 1867.4px;
+    right: 5.42%;
+    bottom: 22.91%;
+    left: -5.65px;
+    font-size: 32px;
+}
+
+.contact-bg {
+    position: absolute;
+    height: 115.43%;
+    width: 106.57%;
+    top: -5.05%;
+    right: -3.28%;
+    bottom: -10.38%;
+    left: -3.28%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.contact-us2,
+.contact-us3 {
+    position: absolute;
+    top: 28.38%;
+    left: 43.14px;
+}
+
+.contact-us2 {
+    height: 9.14%;
+    width: 15.02%;
+    top: 9.14%;
+    right: 72.51%;
+    bottom: 81.72%;
+    left: 153.47px;
+    font-size: 18px;
+    color: #ff9100;
+}
+
+.garvitsinghofficial12gmailco1 {
+    position: absolute;
+    top: 147.63px;
+    left: 156.45px;
+}
+
+.number {
+    position: absolute;
+    top: 203.63px;
+    left: 156.45px;
+}
+
+.address {
+    position: absolute;
+    top: 259.63px;
+    left: 156.45px;
+}
+
+.social-media2 {
+    position: absolute;
+    height: 100%;
+    width: 17.45%;
+    top: 205px;
+    right: 58.48%;
+    bottom: 19.23%;
+    left: 156.45px;
+    font-size: 20px;
+}
+
+.social-media3 {
+    position: absolute;
+    top: 30%;
+    left: 0;
+}
+
+.instagram-icon1,
+.twitter-icon1,
+.vector-icon8 {
+    position: absolute;
+    height: 101.54%;
+    width: 17.72%;
+    top: -63px;
+    right: 43.89%;
+    bottom: -0.77%;
+    left: -2.5500000000000114px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.twitter-icon1,
+.vector-icon8 {
+    right: 21.88%;
+    left: 60.4px;
+}
+
+.vector-icon8 {
+    width: 101.54%;
+    right: -0.77%;
+    left: -0.77%;
+}
+
+.linkedin-icon1 {
+    position: absolute;
+    width: 42px;
+    top: 228px;
+    left: 119.4px;
+}
+
+.devpic {
+    position: absolute;
+    top: 39px;
+    right: 287px;
+}
+
+
+/* .image-2-icon1 {
+    position: absolute;
+    top: 17.07px;
+    left: 18.77px;
+    width: 18.06px;
+    height: 19.26px;
+    object-fit: cover;
+} */
+
+
+/* .contact-item {
+    position: absolute;
+    top: 49.95px;
+    left: 806.96px;
+    border-radius: 23px;
+    width: 230.04px;
+    height: 458.79px;
+} */
